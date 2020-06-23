@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import 'materialize-css';
 import 'materialize-css/dist/css/materialize.min.css';
 import CarouselComponent from './carouselComponent';
